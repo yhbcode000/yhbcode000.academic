@@ -45,7 +45,7 @@ redirect_from:
 
 ## Patents
 
-- 一种基于会话级用户状态与智能体状态映射的人机对齐方法及系统 (Nanjing Tongtong AI)
+- 一种基于会话级用户状态与智能体状态映射的人机对齐方法及系统 (MySelfOS Ltd.)
 - 基于拆分学习的个性化大模型系统及方法 (Shanghai ValveMind AI)
 - 基于深度神经网络熵估计的优化方法 (Tsinghua University)
 - 点云法向量聚类平面检测方法 (Tsinghua University)

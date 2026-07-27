@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the Southern University of Science and Technology (SUSTech), starting Fall 2026. My research focuses on **embodied AI**, **robotics**, and **multimodal learning** — building intelligent systems that perceive, reason, and act in the physical world.
+I am a Ph.D. student in Computer Science at SUSTech, starting Fall 2026. My research focuses on **embodied AI**, **robotics**, and **multimodal learning** — building intelligent systems that perceive, reason, and act in the physical world.
 
 ## Research Interests
 
