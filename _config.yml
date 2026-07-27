@@ -18,7 +18,7 @@ baseurl                  : ""
 repository               : "yhbcode000/yhbcode000.academic"
 
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
   name             : "Haobo Yang (杨昊波)"
   bio              : "Ph.D. Student in Computer Science at SUSTech. Research: Embodied AI, Robotics, Multimodal Learning, HRI."
   location         : "Shenzhen, China"
