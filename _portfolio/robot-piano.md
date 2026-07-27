@@ -1,6 +1,6 @@
 ---
-title: "Real-Time Multimodal HRI — Robot Piano (MBZUAI Thesis)"
+title: "Embodied Robot Interaction Framework — ChatPiano (MBZUAI Thesis)"
 collection: portfolio
 permalink: /portfolio/robot-piano
 ---
-Designed an 8-layer perception-interaction architecture for real-time multimodal human-robot interaction. Built asynchronous multi-node system with HMM turn-taking detection, LLM semantic arbitration, and conversational self-reflection. Validated on turn detection, interruption handling, and personality-adaptive behavior.
+Developing an embodied robot interaction framework based on multimodal large model agents, integrating unified vision-language-action representations. Implementing "one-sentence-multiple-step" long-horizon task closed-loop with rich dialogue experiences. Performed alongside China National Symphony Orchestra during their UAE arts festival visit, demonstrating AI-human collaborative performance.

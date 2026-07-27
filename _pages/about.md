@@ -19,7 +19,7 @@ I am a Ph.D. student in Computer Science at SUSTech, starting Fall 2026. My rese
 ## Education
 
 - **Ph.D. in Computer Science**, SUSTech, 2026–2029. Research: Agents, Robotics, Embodied AI.
-- **M.S. in Robotics**, MBZUAI, 2024–2026. CSRankings top 10. Thesis: *Real-Time Multimodal HRI: an 8-layer perception-interaction architecture for robot piano interaction*.
+- **M.S. in Robotics**, MBZUAI, 2024–2026. CSRankings top 10. Thesis: *Embodied robot interaction framework based on multimodal large model agents (ChatPiano)*.
 - **B.A. in Artificial Intelligence**, University of Edinburgh, 2019–2024. Thesis: *Uncertainty-aware cloud-edge collaborative LiDAR point cloud segmentation for autonomous driving*.
 
 Before my Ph.D., I worked as a Research Assistant at Tsinghua University's State Key Laboratory of Automotive Safety and Energy, where I led a 10-person team on autonomous driving perception. I have also co-founded and led technology teams at multiple AI startups, and founded the Qianyi AI Foundation — an international community of 20+ AI researchers exploring human-AI symbiosis.
