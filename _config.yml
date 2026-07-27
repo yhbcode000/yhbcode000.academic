@@ -13,8 +13,8 @@ title                    : "Haobo Yang"
 title_separator          : "-"
 name                     : &name "Haobo Yang"
 description              : &description "AI & Robotics Researcher | Ph.D. Student at SUSTech | Embodied Intelligence, Multimodal Learning, Human-Robot Interaction"
-url                      : https://yhbcode000.github.io
-baseurl                  : "/yhbcode000.academic"
+url                      : https://yhbcode000.tech
+baseurl                  : ""
 repository               : "yhbcode000/yhbcode000.academic"
 
 author:
