@@ -3,6 +3,8 @@ title: "Transformer Architectures as Complete Bayes Processes: A Formal Proof in
 collection: publications
 category: manuscripts
 permalink: /publication/2026-06-02-transformer-bayes-processes
+header:
+  teaser: /images/pub-transformer-bayes.webp
 excerpt: 'Formal proof that transformer architectures are complete Bayes processes in the measure-theoretic kernel framework.'
 date: 2026-06-01
 venue: 'arXiv preprint arXiv:2606.30440'

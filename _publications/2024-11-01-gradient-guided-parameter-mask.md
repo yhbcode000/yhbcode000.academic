@@ -3,6 +3,8 @@ title: "Gradient-Guided Parameter Mask for Multi-Scenario Image Restoration Unde
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-01-gradient-guided-parameter-mask
+header:
+  teaser: /images/pub-multiweather.webp
 excerpt: 'Proposes gradient-guided parameter masking for multi-scenario image restoration under adverse weather conditions.'
 date: 2024-11-01
 venue: 'arXiv preprint arXiv:2411.16739'

@@ -3,6 +3,8 @@ title: "InDL: A New Dataset and Benchmark for In-Diagram Logic Interpretation ba
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-01-indl-diagram-logic
+header:
+  teaser: /images/pub-indl.webp
 excerpt: 'A new dataset and benchmark for in-diagram logic interpretation using visual illusions.'
 date: 2023-05-01
 venue: 'arXiv preprint arXiv:2305.17716'

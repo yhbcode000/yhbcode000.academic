@@ -3,6 +3,8 @@ title: "Leveraging Geometric Visual Illusions as Perceptual Inductive Biases for
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-02-geometric-visual-illusions
+header:
+  teaser: /images/pub-geometric-illusions.webp
 excerpt: 'Explores geometric visual illusions as perceptual inductive biases for training vision models.'
 date: 2025-09-01
 venue: 'arXiv preprint arXiv:2509.15156'

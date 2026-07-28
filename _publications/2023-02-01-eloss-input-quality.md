@@ -3,6 +3,8 @@ title: "ELoss in the Way: A Sensitive Input Quality Metric for Intelligent Drivi
 collection: publications
 category: manuscripts
 permalink: /publication/2023-02-01-eloss-input-quality
+header:
+  teaser: /images/pub-entropy-framework.webp
 excerpt: 'Proposes ELoss as a sensitive input quality metric for robust and safe autonomous driving systems.'
 date: 2023-02-01
 venue: 'arXiv preprint arXiv:2302.00986'

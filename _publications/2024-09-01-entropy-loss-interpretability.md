@@ -3,6 +3,8 @@ title: "Entropy Loss: An Interpretability Amplifier of 3D Object Detection Netwo
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-01-entropy-loss-interpretability
+header:
+  teaser: /images/pub-entropy-framework.webp
 excerpt: 'Proposes entropy loss as an interpretability enhancer for 3D object detection in autonomous driving perception.'
 date: 2024-09-01
 venue: 'arXiv preprint arXiv:2409.00839'

@@ -3,6 +3,8 @@ title: "Stabilizing Information Flow Entropy: Regularization for Safe and Interp
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-01-stabilizing-entropy
+header:
+  teaser: /images/pub-entropy-framework.webp
 excerpt: 'Proposes entropy stabilization regularization for safe and interpretable autonomous driving perception.'
 date: 2025-09-01
 venue: 'arXiv preprint arXiv:2509.16277'
