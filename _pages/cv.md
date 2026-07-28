@@ -11,13 +11,13 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Computer Science**, Southern University of Science and Technology (SUSTech), 2026–2029
-- **M.S. in Robotics**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), 2024–2026
-- **B.A. in Artificial Intelligence**, University of Edinburgh, 2019–2024
+- **Ph.D. in Computer Science**, Southern University of Science and Technology (SUSTech), Shenzhen, China, 2026–2029
+- **MSc in Robotics**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE, 2024–2026
+- **BSc in Artificial Intelligence**, University of Edinburgh (UoE), Edinburgh, UK, 2019–2024
 
 ## Research Experience
 
-- **Research Assistant**, Tsinghua University (2021.12–present)
+- **Research Assistant**, Tsinghua University (2021.12–2026.01)
   - State Key Laboratory of Automotive Safety and Energy
   - Led 10-person team; developed autonomous driving perception pipeline
   - Contributed to NSFC grant application (approved)
@@ -37,13 +37,11 @@ redirect_from:
   - Led two 10-person teams on federated learning and privacy-preserving AI
 - **Tech Lead**, KerToo Co., Ltd., Beijing (2024.5–2024.10)
   - Developed AI-powered pet companion robot; secured seed funding
-- **Subsidiary Prep Lead**, QingMeng Aviation Technology Company, Abu Dhabi/Xiong'an (2025.1–2025.8)
-  - Recruited UAE branch team; advanced university-industry partnerships
 
 ## Community Leadership
 
 - **Founder & President**, CWAI (2020.6–present)
-  - Coordinating 20+ AI researchers across Edinburgh, Abu Dhabi, and Jiaxing
+  - Coordinating 20+ AI researchers
   - Advancing "human-AI symbiotic society" vision
 
 ## Publications

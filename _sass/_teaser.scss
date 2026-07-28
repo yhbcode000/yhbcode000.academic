@@ -1,0 +1,10 @@
+// Half-width centered teaser images for portfolio and publications
+.archive__item-teaser {
+  text-align: center;
+
+  img {
+    max-width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+}
