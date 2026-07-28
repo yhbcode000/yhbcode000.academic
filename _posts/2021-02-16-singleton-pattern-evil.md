@@ -5,6 +5,8 @@ date: 2021-02-16 19:22:27
 author_profile: true
 ---
 
+Examines whether the singleton design pattern qualifies as an anti-pattern, discussing legitimate use cases versus situations where it introduces hidden coupling and testability issues.
+
 ## Key discussion
 
 Is the singleton design pattern an antipattern?

@@ -5,6 +5,8 @@ date: 2022-02-19 13:42:00
 author_profile: true
 ---
 
+Analyzes the standard structure of academic papers — from abstract and introduction through methods, results, and conclusion — with practical writing guidance.
+
 - 摘要 Abstract（在阅读60多篇论文的摘要后，总结得到以下的几种结构。）
     >     “起”：这种结构适用于论点的提出，在前人贡献不多的情况下使用。
     >         开篇介绍本篇论文的贡献。

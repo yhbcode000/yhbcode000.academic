@@ -5,6 +5,8 @@ date: 2022-03-01 21:18:25
 author_profile: true
 ---
 
+Derives the entropy formula for multivariate Gaussian distributions, explaining its relationship to covariance and its significance in information theory.
+
 作者: 引线小白-本文永久链接：http://www.limoncc.com/概率论/2017-01-10-多元高斯分布的熵/
 知识共享许可协议: 本博客采用署名-非商业-禁止演绎4.0国际许可证
 

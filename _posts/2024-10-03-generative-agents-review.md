@@ -5,6 +5,8 @@ date: 2024-10-03 19:41:51
 author_profile: true
 ---
 
+A detailed review of the UIST 2023 paper "Generative Agents: Interactive Simulacra of Human Behavior," analyzing its memory-reflection architecture for believable agent simulation.
+
 ## 1. **Recap**
    - We have been discussing **emerging knowledge** and how we are curious about the process the **multi-agent system** uses to emerge **language representation** during satisfying its communication needs.
 

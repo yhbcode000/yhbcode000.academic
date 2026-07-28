@@ -5,6 +5,8 @@ date: 2021-09-23 14:30:05
 author_profile: true
 ---
 
+A structured overview of major programming paradigms — procedural, object-oriented, functional, and aspect-oriented — with comparisons across 27 recognized paradigms.
+
 ## 编程语言
 与成百种编程语言（Programming Language）相比，编程范式（Programming Paradigm、范式）要少得多。
 

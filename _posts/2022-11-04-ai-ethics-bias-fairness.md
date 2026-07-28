@@ -5,6 +5,10 @@ date: 2022-10-11 14:49:05
 author_profile: true
 ---
 
+Investigates algorithmic bias and fairness — how training data and model design choices encode societal biases, and technical approaches to measuring and mitigating unfairness.
+
+TODO 
+
 ## Introduction
 
 - We’ve covered some important background concepts in talking about Responsibility, Power and Data. The idea behind these has been to motivate some of why we should be interested in ethics in computer science, and why we are often going to be at least partially responsible for anticipating and mitigating harms that technical artifacts can bring about.

@@ -5,6 +5,8 @@ date: 2022-04-03 20:02:30
 author_profile: true
 ---
 
+Practical advice on academic paper writing — from structuring arguments to navigating peer review — with a focus on efficiency and impact.
+
 论文和自己的笔记不一样，和我成天写的博客类似，都是要提供最多的相关信息，便于读者理解。
 
 只要有给小白讲明白这个点的想法，就不愁没得写

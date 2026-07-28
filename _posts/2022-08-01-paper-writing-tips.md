@@ -5,6 +5,8 @@ date: 2022-06-09 15:51:27
 author_profile: true
 ---
 
+A team collaboration guide for research groups: avoiding common pitfalls in multi-author projects, managing revisions, and maintaining research integrity.
+
 > 本文站在第三方的角度审视我在2022年的团队科研经历，一来是自省，二来是帮助更多同学更好的开始自己的科研生活。
 
 科研工作是围绕一个科学问题展开的探索，只要是探索就有成功，有失败。而人工智能的科研探索，永远是以失败为主旋律。再详尽的计划，再强大的开发能力，都无法保证实验不出现问题。和数学条理清晰的证明不一样，人工智能深度学习的黑盒性质，使科研工作的展开**注定磕磕绊绊**。

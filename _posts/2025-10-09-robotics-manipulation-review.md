@@ -5,6 +5,8 @@ date: 2025-10-09 19:41:47
 author_profile: true
 ---
 
+A comprehensive survey of robot manipulation and motion control: covering kinematics, dynamics, Jacobians, force closure, imitation learning, and state-space control methods.
+
 ## 引言
 
 2025年，机器人技术迎来前所未有的发展机遇。随着人工智能、传感器技术和计算能力的不断进步，现代机器人系统正从传统的程序化执行向真正的智能自主系统演进。本文将全面回顾当前机器人技术的核心领域进展，涵盖感知、规划、控制和学习等方面。

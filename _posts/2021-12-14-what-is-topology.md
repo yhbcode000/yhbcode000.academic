@@ -5,6 +5,8 @@ date: 2021-12-14 10:50:16
 author_profile: true
 ---
 
+An accessible introduction to topology: the study of properties preserved under continuous deformation, illustrated through rubber-sheet geometry and real-world examples.
+
 > **目录**
 > @[TOC]
 

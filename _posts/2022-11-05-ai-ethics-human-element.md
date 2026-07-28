@@ -5,6 +5,8 @@ date: 2022-10-11 14:49:33
 author_profile: true
 ---
 
+Argues that human judgment remains irreplaceable in AI systems — examining cases where over-automation fails and where human-in-the-loop design is essential.
+
 ## Introduction
 
 - This week we continue the theme of looking at general kinds of harm technology can cause if we’re not careful with it.

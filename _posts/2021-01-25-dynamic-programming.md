@@ -5,6 +5,8 @@ date: 2021-01-25 14:05:22
 author_profile: true
 ---
 
+Compares bottom-up dynamic programming with top-down recursion-with-memoization — arguing they are fundamentally similar approaches that both prune the recursion tree for polynomial-time computation.
+
 ## Question
 
 DP vs Recursion with memorization

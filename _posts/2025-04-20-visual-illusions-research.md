@@ -5,6 +5,8 @@ date: 2025-04-20 11:08:34
 author_profile: true
 ---
 
+Research notes on leveraging geometric visual illusions as perceptual inductive biases for vision models — the foundational exploration behind the InDL dataset and related publications.
+
 1. 如果我们投递neuralps dataset and benchmark track, evaluate cost on the illusion dataset is a good idea which provide a new insight into the machine learning models, how well they can react to human illusion and give valuable insights from the result with evaluation results and with the evaluation we can make modification to ml models and make them working more smoothly.
 2. besides if we get into human side, illusion is where human bad at, therefore this illusion dataset would be the one give AI an idea that human may suffer from this and do collaboration working with human may not a good idea. but this illusion might be the source of creativity, but to be honest, creativity is the most difficult thing to evaluate by human, and by certain metrics.
 3. therefore in this case what is the contribution of our method? besides cost, we can also get into the latent space to evaluate if an attention machnism has similar idea as human and generate illusion effect in a high dimension, and to remove such illusion, we have to provide tools for it to better understand the world instead of percept with bare eye or attention. We have to admit that, it is impossible for human to measure something with bare eye, so does doing math, we need thinking tools to help us do math etc.

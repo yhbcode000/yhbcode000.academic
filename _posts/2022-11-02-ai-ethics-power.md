@@ -5,6 +5,8 @@ date: 2022-10-11 14:47:54
 author_profile: true
 ---
 
+Examines power dynamics in AI development — how concentrated computational and data resources shape algorithmic outcomes and reinforce structural inequalities.
+
 ## Definition
 
 - Your ability to see your will made manifest in the world.

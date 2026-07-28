@@ -5,6 +5,8 @@ date: 2022-10-10 14:40:48
 author_profile: true
 ---
 
+Explores the concept of responsibility in AI systems: who is accountable when autonomous systems cause harm, and how to design for responsible deployment.
+
 > More note for this course check: [Professional Issues](/categories/University/Professional-Issues/)
 
 ## Responsibility

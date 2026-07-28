@@ -5,7 +5,7 @@ date: 2021-09-14 18:43:05
 author_profile: true
 ---
 
-![](https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images)
+Reflects on how the Model-View-Controller software architecture can serve as a mental model for structuring everyday life planning and decision-making.
 
 作者：@Discover
 本文章出自企划：麻瓜指南，一个创作者互帮互助共同创作的企划。联系方式见文末尾。
