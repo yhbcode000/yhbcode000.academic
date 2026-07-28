@@ -2,8 +2,6 @@
 title: "KerToo — Pet Companion Robot"
 collection: portfolio
 permalink: /portfolio/kertoo
-header:
-  teaser: kertoo-logo.webp
 ---
 KerToo is an AI and robotics startup redefining human-animal-machine relationships through embodied intelligence. We design AI companions that enrich pet care through emotion, interactivity, and adaptive intelligence.
 
@@ -12,3 +10,5 @@ Presented at the 2024 China Pet Industry Conference and secured seed funding. Th
 - **Year**: 2024
 - **Role**: Technology Lead
 - **LinkedIn**: [KerToo](https://www.linkedin.com/company/kertoo/)
+
+![](/images/kertoo-logo.webp)

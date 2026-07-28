@@ -2,8 +2,6 @@
 title: "Point3 — Accessible Learning Tool"
 collection: portfolio
 permalink: /portfolio/point3
-header:
-  teaser: point3-interface.webp
 ---
 Point3 is a nonprofit software tool designed to help visually impaired individuals learn English through speech analysis and pronunciation feedback.
 
@@ -12,3 +10,5 @@ Built by the AierLab student team in 2022 after a father from Wuhan reached out 
 - **Year**: 2022
 - **Role**: Project Lead
 - **GitHub**: [point3-learning-tool](https://github.com/AierLab/point3-learning-tool)
+
+![](/images/point3-interface.webp)
