@@ -25,12 +25,11 @@ author:
   employer         : "SUSTech"
   uri              : "https://blog.yhbcode000.tech"
   email            : "yhbcode000@foxmail.com"
-  googlescholar    : # Add when available
+  googlescholar    : "https://scholar.google.com/citations?user=ecuapkMAAAAJ"
   github           : "yhbcode000"
 
   # Academic websites
   arxiv            : # Add arXiv author ID when available
-  googlescholar    : # Add Google Scholar when available
 
   # Repositories and software development
   github           : "yhbcode000"

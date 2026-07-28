@@ -42,7 +42,7 @@ redirect_from:
 
 ## Community Leadership
 
-- **Founder & President**, Qianyi AI Foundation (2020.6–present)
+- **Founder & President**, CWAI (2020.6–present)
   - Coordinating 20+ AI researchers across Edinburgh, Abu Dhabi, and Jiaxing
   - Advancing "human-AI symbiotic society" vision
 
