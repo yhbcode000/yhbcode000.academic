@@ -3,7 +3,7 @@ title: "InDL — In-Diagram Logic Dataset"
 collection: portfolio
 permalink: /portfolio/indl
 header:
-  teaser: /images/indl-dataset.webp
+  teaser: indl-dataset.webp
 ---
 InDL introduces a novel dataset to benchmark deep learning models' ability to interpret logic and visual illusions. The dataset contains illusory stimuli (Hering & Wundt, Müller–Lyer, Poggendorff, Vertical–Horizontal, Zöllner illusions) and matched control stimuli with contextual distortion elements removed.
 

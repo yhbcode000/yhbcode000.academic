@@ -3,7 +3,7 @@ title: "Valmech — AI Safety & Federated Learning"
 collection: portfolio
 permalink: /portfolio/valmech
 header:
-  teaser: /images/valmech-logo.webp
+  teaser: valmech-logo.webp
 ---
 Valmech develops decentralized AI frameworks prioritizing privacy, security, and ethical governance across healthcare, finance, and other sectors.
 

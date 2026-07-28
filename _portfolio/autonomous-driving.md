@@ -3,7 +3,7 @@ title: "Autonomous Driving Perception (Tsinghua University)"
 collection: portfolio
 permalink: /portfolio/autonomous-driving
 header:
-  teaser: /images/multiweather-adaptation.webp
+  teaser: multiweather-adaptation.webp
 ---
 Research Assistant at the State Key Laboratory of Automotive Safety and Energy, Tsinghua University. Led a 10-person team developing perception systems for autonomous driving.
 

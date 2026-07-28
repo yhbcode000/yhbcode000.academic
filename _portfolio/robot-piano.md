@@ -3,7 +3,7 @@ title: "Embodied Robot Interaction Framework — ChatPiano (MBZUAI Thesis)"
 collection: portfolio
 permalink: /portfolio/robot-piano
 header:
-  teaser: /images/chatpiano-demo.webp
+  teaser: chatpiano-demo.webp
 ---
 
 Developing an embodied robot interaction framework based on multimodal large model agents, integrating unified vision-language-action representations. Implementing "one-sentence-multiple-step" long-horizon task closed-loop with rich dialogue experiences.

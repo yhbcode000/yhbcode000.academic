@@ -3,7 +3,7 @@ title: "SinGlow — Singing Voice Synthesis"
 collection: portfolio
 permalink: /portfolio/singlow
 header:
-  teaser: /images/singlow-spectrogram.webp
+  teaser: singlow-spectrogram.webp
 ---
 SinGlow applies Glow-based flow generative models to singing voice synthesis — the first use of flow models in the SVS task. The system extracts acoustic features from songs and music, enabling feature migration such as transferring real singers' performance characteristics to virtual singers.
 

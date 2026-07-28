@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2021-10-01-singlow-singing-voice
 header:
-  teaser: /images/pub-singlow.webp
+  teaser: pub-singlow.webp
 excerpt: 'First application of Glow flow-based generative model to singing voice synthesis for more human-like virtual singers.'
 date: 2021-10-01
 venue: 'Proc. of 2nd ICAICE, IEEE, 2021, pp. 111–114'

@@ -3,7 +3,7 @@ title: "Point3 — Accessible Learning Tool"
 collection: portfolio
 permalink: /portfolio/point3
 header:
-  teaser: /images/point3-interface.webp
+  teaser: point3-interface.webp
 ---
 Point3 is a nonprofit software tool designed to help visually impaired individuals learn English through speech analysis and pronunciation feedback.
 
