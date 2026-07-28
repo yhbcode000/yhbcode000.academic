@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-02-01-eloss-input-quality
 header:
-  teaser: pub-entropy-framework.webp
+  teaser: pub-eloss.webp
 excerpt: 'Proposes ELoss as a sensitive input quality metric for robust and safe autonomous driving systems.'
 date: 2023-02-01
 venue: 'arXiv preprint arXiv:2302.00986'

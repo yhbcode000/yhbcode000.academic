@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-01-entropy-loss-interpretability
 header:
-  teaser: pub-entropy-framework.webp
+  teaser: pub-entropy-loss.webp
 excerpt: 'Proposes entropy loss as an interpretability enhancer for 3D object detection in autonomous driving perception.'
 date: 2024-09-01
 venue: 'arXiv preprint arXiv:2409.00839'
