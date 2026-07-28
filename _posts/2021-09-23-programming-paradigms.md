@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "编程范式整理"
+title: "A Survey of Programming Paradigms"
 date: 2021-09-23 14:30:05
 author_profile: true
 ---

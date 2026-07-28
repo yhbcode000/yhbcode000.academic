@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "【数学】多元高斯分布的熵"
+title: "Entropy of the Multivariate Gaussian Distribution"
 date: 2022-03-01 21:18:25
 author_profile: true
 ---

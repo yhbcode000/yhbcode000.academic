@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "204-illusion-final"
+title: "Geometric Visual Illusions as Inductive Biases for Vision Models"
 date: 2025-04-20 11:08:34
 author_profile: true
 ---

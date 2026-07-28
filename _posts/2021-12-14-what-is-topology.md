@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "【数学】到底什么是拓扑？"
+title: "What Is Topology? A Gentle Introduction"
 date: 2021-12-14 10:50:16
 author_profile: true
 ---

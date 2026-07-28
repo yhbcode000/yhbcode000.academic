@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "论文咋水"
+title: "How to Write Papers Efficiently"
 date: 2022-04-03 20:02:30
 author_profile: true
 ---

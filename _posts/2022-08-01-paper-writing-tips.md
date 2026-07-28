@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "【指导】科研工作团队协作避坑指南"
+title: "A Practical Guide to Research Team Collaboration"
 date: 2022-06-09 15:51:27
 author_profile: true
 ---

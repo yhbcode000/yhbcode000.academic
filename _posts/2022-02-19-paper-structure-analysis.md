@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "【论文】论文写作结构分析"
+title: "How to Structure an Academic Paper"
 date: 2022-02-19 13:42:00
 author_profile: true
 ---

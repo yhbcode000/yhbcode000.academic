@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "MVC 软件架构对于现实生活的启发"
+title: "What MVC Architecture Can Teach Us About Life"
 date: 2021-09-14 18:43:05
 author_profile: true
 ---

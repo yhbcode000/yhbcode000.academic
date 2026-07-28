@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "【机器人】操作与运动控制原理"
+title: "A Comprehensive Survey of Robot Manipulation and Motion Control"
 date: 2025-10-09 19:41:47
 author_profile: true
 ---
